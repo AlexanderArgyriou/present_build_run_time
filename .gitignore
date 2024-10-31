@@ -1,0 +1,4 @@
+# Project exclude paths
+/build-time-ops/target/
+/commons/target/
+/runtime-ops/target/
